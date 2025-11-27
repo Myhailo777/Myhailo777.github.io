@@ -1,0 +1,50 @@
+/* style.css - Зовнішній файл стилів для Lab 6 */
+
+/* 1. Перевизначення тегу (для <body>) */
+body {
+    font-family: 'Times New Roman', Times, serif; /* Зміна шрифту для всього сайту */
+    color: #000000; /* Основний колір тексту - чорний */
+    background-color: #E6E6FA; /* Світло-лавандовий фон */
+}
+
+/* 2. Стильовий клас (.content) */
+.content {
+    width: 85%; /* Трохи ширше, ніж було */
+    margin: 30px auto; /* Збільшення зовнішніх відступів */
+    background-color: #FFFFFF;
+    padding: 25px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4); /* Більш виразний тінь */
+}
+
+/* 3. Перевизначення тегу (для <h2>) */
+h2 {
+    color: #800000; /* Темно-червоний колір для всіх заголовків h2 */
+    border-bottom: 2px solid #DDA0DD; /* Декоративна лінія під заголовком */
+    padding-bottom: 5px;
+}
+
+/* 4. Іменований стиль (#footer-style) */
+#footer-style {
+    font-size: 14px;
+    padding: 10px;
+    background-color: #F0F8FF;
+    border-top: 1px dashed #6A5ACD;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
